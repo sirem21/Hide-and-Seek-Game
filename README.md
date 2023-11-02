@@ -8,4 +8,4 @@ You can play with WASD and arrow keys.
 
 
 # GamePlay
-[Watch Video]((https://drive.google.com/file/d/1rfu6AXfzNtDR-PUqr8V5n5m3v6cUPFC_/view?usp=drive_link)https://drive.google.com/file/d/1rfu6AXfzNtDR-PUqr8V5n5m3v6cUPFC_/view?usp=drive_link)
+[Watch Video](https://drive.google.com/file/d/1rfu6AXfzNtDR-PUqr8V5n5m3v6cUPFC_/view?usp=drive_link)https://drive.google.com/file/d/1rfu6AXfzNtDR-PUqr8V5n5m3v6cUPFC_/view?usp=drive_link)
